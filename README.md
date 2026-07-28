@@ -1,5 +1,4 @@
-**# Utility-company-regression
-# this works just like colab text cells**# Dummy Variables & Interaction Terms in Regression Analysis
+# Dummy Variables & Interaction Terms in Regression Analysis
 
 A regression analysis project examining how seasonality affects revenue for a manufacturing company, using dummy variables and interaction terms in an OLS model. Built for AFM244 (Analytics for Accounting and Finance) at the University of Waterloo.
 
